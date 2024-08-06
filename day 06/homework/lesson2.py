@@ -12,3 +12,36 @@ sum2 = score1 * score2 * score3 * score4 * score5
 sum3 = score1 / score2 / score3 / score4 / score5
 sum4 = score1 // score2 // score3 // score4 // score5
 sum5 = score1 % score2 % score3 % score4 % score5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
